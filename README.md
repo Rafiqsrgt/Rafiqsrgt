@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Rafiqul Islam</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE9-NDcXbyObw/profile-displaybackgroundimage-shrink_350_1400/B4DZpEzwHmHsAY-/0/1762091009538?e=1764201600&v=beta&t=r2ek08jDQdS0rg_YE7xaPj38ZcqZhL-w-lZ7Fq1Lg5U">
 <h3 align="center">Web Developer & Designer Skilled in WordPress, HTML, CSS, JavaScript, Bootstrap, PHP, MySQL — passionate about creating clean, responsive, and dynamic websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqsrgt&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqsrgt" /> </p>
